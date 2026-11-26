@@ -9,6 +9,7 @@ A keyboard-first, local-first issue tracker for small teams, built around a hand
 ## Documents
 
 - [Design](docs/design/2026-11-26-issue-tracker-sync-engine-design.md) (in Thai)
+- [M0 plan](docs/design/plans/2026-11-26-m0-foundation.md) (in Thai)
 
 ## License
 
